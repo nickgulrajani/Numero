@@ -28,6 +28,7 @@ class ConverterTests: XCTestCase {
   }
 // Added Converter Test TWO - Nicholas 
 // Added a second TEST THREE - Nicholas
+// Added a third TEST FOUR 
   
   func testConversionForTwo() {
     let result = converter.convert(2)
